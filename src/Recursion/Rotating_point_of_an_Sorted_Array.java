@@ -1,4 +1,4 @@
-package com.java.DSA.Recursion;
+package Recursion;
 
 public class Rotating_point_of_an_Sorted_Array {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.java.DSA.Recursion;
+package Recursion;
 
 public class Array_is_Sorted {
     public static void main(String[] args){

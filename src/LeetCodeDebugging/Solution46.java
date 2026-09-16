@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 
 public class Solution46 {
     public int trap(int[] height) {

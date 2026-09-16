@@ -1,4 +1,4 @@
-package com.java.DSA.SortingAlgo.BubbleSort;
+package SortingAlgo.BubbleSort;
 
 import java.util.Arrays;
 

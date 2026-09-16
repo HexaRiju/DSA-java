@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 
 public class Solution4 {
     public void rotate(int[] nums, int k) {

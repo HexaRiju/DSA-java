@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 
 public class Solution12 {
     public int maxValue(int n, int index, int maxSum) {

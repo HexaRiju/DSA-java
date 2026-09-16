@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 
 public class Solution24 {
     public int specialArray(int[] nums) {

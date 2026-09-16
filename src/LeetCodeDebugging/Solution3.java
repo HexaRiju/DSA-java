@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 
 public class Solution3 {
     public boolean canJump(int[] nums) {

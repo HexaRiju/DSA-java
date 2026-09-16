@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 import java.util.*;
 public class Solution22 {
     public int[] sortByBits(int[] arr) {

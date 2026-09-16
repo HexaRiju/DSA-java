@@ -1,4 +1,4 @@
-package com.java.DSA.SortingAlgo;
+package SortingAlgo;
 
 import java.util.Arrays;
 // quick sort using first element as the pivot

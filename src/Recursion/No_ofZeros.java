@@ -1,4 +1,4 @@
-package com.java.DSA.Recursion;
+package Recursion;
 
 public class No_ofZeros {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.java.DSA.Arrays;
+package Searching.linear_search;
 //https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1944027882/
 public class Question1 {
     public static void main(String[] args) {

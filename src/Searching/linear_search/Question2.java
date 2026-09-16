@@ -1,4 +1,4 @@
-package com.java.DSA.Arrays;
+package Searching.linear_search;
 //https://leetcode.com/problems/richest-customer-wealth/
 public class Question2 {
     public static void main(String[] args) {

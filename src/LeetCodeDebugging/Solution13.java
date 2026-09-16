@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 
 public class Solution13 {
     public int minEatingSpeed(int[] piles, int h) {

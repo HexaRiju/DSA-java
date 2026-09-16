@@ -1,6 +1,4 @@
-package com.java.DSA.Bitmanupulation;
-
-import jdk.jshell.SourceCodeAnalysis;
+package Bitmanupulation;
 
 import java.util.Scanner;
 
@@ -8,9 +6,9 @@ public class EvenOdd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
-        if((x & 1) != 0)
-            System.out.println("this no s odd");
+        if ((x & 1) != 0)
+            System.out.println("This number is odd");
         else
-            System.out.println("this no is even");
+            System.out.println("This number is even");
     }
 }

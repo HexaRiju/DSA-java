@@ -1,4 +1,4 @@
-package com.java.DSA.SortingAlgo.SelectionSort;
+package SortingAlgo.SelectionSort;
 
 import java.util.Arrays;
 

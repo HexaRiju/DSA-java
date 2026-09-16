@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 import java.util.*;
 public class Solution50 {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {

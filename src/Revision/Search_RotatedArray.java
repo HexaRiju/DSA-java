@@ -1,4 +1,4 @@
-package com.java.DSA.Revision;
+package Revision;
 
 public class Search_RotatedArray {
     public static void main(String[] args) {

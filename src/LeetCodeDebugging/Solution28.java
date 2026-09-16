@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 import java.util.*;
 public class Solution28 {
     public int[][] merge(int[][] intervals) {

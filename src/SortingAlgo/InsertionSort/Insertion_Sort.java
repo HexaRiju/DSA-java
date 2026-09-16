@@ -1,4 +1,4 @@
-package com.java.DSA.SortingAlgo.InsertionSort;
+package SortingAlgo.InsertionSort;
 
 import java.util.Arrays;
 

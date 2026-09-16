@@ -1,4 +1,4 @@
-package com.java.DSA.Arrays;
+package Arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;

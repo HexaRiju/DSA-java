@@ -1,4 +1,4 @@
-package com.java.DSA.Arrays.TwoDarray;
+package Arrays.TwoDarray;
 
 import java.util.Arrays;
 

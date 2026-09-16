@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 
 public class Solution18 {
     public int[] sortArrayByParityII(int[] nums) {

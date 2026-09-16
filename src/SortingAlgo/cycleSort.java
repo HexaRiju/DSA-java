@@ -1,4 +1,4 @@
-package com.java.DSA.SortingAlgo;
+package SortingAlgo;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

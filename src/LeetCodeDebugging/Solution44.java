@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 
 public class Solution44 {
     public int maximumRemovals(String s, String p, int[] removable) {

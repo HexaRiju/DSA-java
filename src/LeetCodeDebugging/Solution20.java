@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 import java.util.*;
 public class Solution20{
     public List<List<Integer>> allCellsDistOrder(int rows, int cols, int rCenter, int cCenter) {

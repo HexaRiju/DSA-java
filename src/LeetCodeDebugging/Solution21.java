@@ -1,4 +1,4 @@
-package com.java.DSA.LeetCodeDebugging;
+package LeetCodeDebugging;
 import java.util.*;
 public class Solution21 {
     public List<List<Integer>> minimumAbsDifference(int[] arr) {
